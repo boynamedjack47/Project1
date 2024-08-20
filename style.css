@@ -5,7 +5,6 @@ body {
     background-color: rgb(119, 32, 44);
     color: beige;
 }
-h1 { text-align: center;
-color: beige;
-font-size: larger;
+a {
+    text-decoration: none;
 }
