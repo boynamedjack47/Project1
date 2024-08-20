@@ -1,12 +1,10 @@
 body {
 
     text-decoration: line-through;
-    display: inline;
-
-    text-align: center;
+    
     background-color: rgb(119, 32, 44);
 }
-p {
-color: green;
-
+h1 { text-align: center;
+color: beige;
+font-size: larger;
 }
