@@ -1,15 +1,19 @@
-body {
 
-    text-align: center;
-    background-color: rgb(119, 32, 44);
-    color: beige;
-}
- h2 {
+ h1{
 color: ghostwhite;
+text-align: center;
+text-decoration: none;
+ }
+ h2{
+    color: ghostwhite;
+text-align: center;
 text-decoration: none;
  }
 
-a {
-    text-decoration: none;
+a { text-decoration: none;
     text-align: left;
+color: beige;}
+body {
+    background-color: rgb(119, 32, 44);
+    color: beige;
 }
